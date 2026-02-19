@@ -3,8 +3,8 @@ name: iterative-creative-development
 description: Guide creative work through progressive refinement stages, preventing premature lock-in and preserving space for discovery.
 license: MIT
 metadata:
+  version: 1.0.4263
   author: sethmblack
-  version: 1.0.4262
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - iterative-creative-development
